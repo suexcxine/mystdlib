@@ -1,7 +1,7 @@
-stdlibex
+mystdlib
 =====
 
-An OTP library
+Extend OPT stdlib library
 
 Build
 -----

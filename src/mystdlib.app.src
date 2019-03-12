@@ -1,4 +1,4 @@
-{application, stdlibex,
+{application, mystdlib,
     [{description, "Extends stdlib application"},
      {vsn, "0.1"},
      {registered, []},
